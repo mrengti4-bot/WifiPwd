@@ -1,4 +1,4 @@
-## Wifi密码查看器
+wifi password show## Wifi密码查看器
 
 软件需要Root权限，使用简单方便
 
